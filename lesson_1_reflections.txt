@@ -1,0 +1,1 @@
+Viewing the differences between two files helped highlight exactly where the differences were, rather than having to go back and forth, examining each line for differences.  It sped up the process and made it much easier to see differences.
